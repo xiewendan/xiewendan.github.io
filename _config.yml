@@ -1,5 +1,6 @@
 # Site settings
 title: xiewendan Blog
+name: xiewendan
 SEOTitle: 千山我独行
 header-img: img/home-bg.jpg
 email: stephenxjc@gmail.com
@@ -87,7 +88,7 @@ service-worker: true
 # Friends
 friends: [
     {
-         title: "Su",
-         href: "http://su.gallery/"
+         title: "netease",
+         href: "http://www.163.com"
     }
 ]
